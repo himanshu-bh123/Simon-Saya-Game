@@ -1,0 +1,1 @@
+This is a simple style memory game built using HTML, CSS, and JavaScript. It features four colorful buttons—red, green, blue, and yellow. When you click a button, it lights up briefly to give visual feedback. This setup can be extended into a full memory-based Simon game by adding sequences and score tracking.
